@@ -5,10 +5,9 @@
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
-	if (size <= 0)
-
 	print_square(2);
 	print_square(10);
 	print_square(0);
